@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Hi There! Yukti Here 💖  
+Hi There! Yukti Here  ☺  
 👩‍💻 A curious mind diving deep into Web Dev & DSA  
 🌱 Currently leveling up Java + JavaScript  
 🤝 Contributor @ Checkstyle | GSoC 2025 Aspirant  
