@@ -10,7 +10,7 @@ Hi There! Yukti Here  ☺
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YuktiNandwana)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/YuktiNandwana)  
