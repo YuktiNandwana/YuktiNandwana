@@ -70,6 +70,15 @@ Hi There! Yukti Here  ☺
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuktiNandwana&theme=dracula)
 
 ---
+---
+
+### 🌟 GitHub Highlights
+
+![Yukti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YuktiNandwana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Let's Build, Break, Fix, Repeat 💥  
 Thanks for dropping by my profile! If you're into open source, let's connect! 🌐  
