@@ -1,7 +1,4 @@
 <!-- 🌈 Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/3qtdg9G.png" alt="Yukti Nandwana Banner" />
-</p>
 
 <h1 align="center">Hi, I'm Yukti! 👋</h1>
 <p align="center">💻 Java Dev | 🛠️ Open Source Contributor | 🚀 GSoC'25 Aspirant
