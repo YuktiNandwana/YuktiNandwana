@@ -46,7 +46,7 @@ Hi There! Yukti Here  ☺
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuktiNandwana&theme=monokai&column=7&no-bg=true&margin-w=10&margin-h=15)](https://github.com/YuktiNandwana)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YuktiNandwana&theme=monokai&column=7&rank=-C&no-bg=true)](https://github.com/YuktiNandwana)
 
 ---
 
