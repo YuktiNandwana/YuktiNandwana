@@ -1,3 +1,20 @@
+<!-- 🌈 Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/3qtdg9G.png" alt="Yukti Nandwana Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Yukti! 👋</h1>
+<p align="center">💻 Developer | ☕ Lo-fi + Chai Lover | 🚀 GSoC Aspirant</p>
+
+<p align="center">
+  <a href="https://github.com/YuktiNandwana?tab=followers">
+    <img src="https://img.shields.io/github/followers/YuktiNandwana?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YuktiNandwana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 ## 💫 About Me:
 
 Hi There! Yukti Here  ☺  
