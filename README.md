@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Yukti! 👋</h1>
-<p align="center">💻 Developer | ☕ Lo-fi + Chai Lover | 🚀 GSoC Aspirant</p>
+<p align="center">💻 Java Dev | 🛠️ Open Source Contributor | 🚀 GSoC'25 Aspirant
+</p>
 
 <p align="center">
   <a href="https://github.com/YuktiNandwana?tab=followers">
