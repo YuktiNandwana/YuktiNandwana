@@ -21,7 +21,7 @@ Hi There! Yukti Here  ☺
 🤝 Contributor @ Checkstyle | GSoC 2025 Aspirant  
 💬 Love chatting about Open Source, GitHub, & Dev Journey  
 🎨 Building cool projects with clean UI & smart features  
-⚡ Fun fact: I debug faster with lo-fi + chai ☕🎧  
+⚡ Fun fact: I debug faster with Music + Maggie🎧  
 
 ---
 
