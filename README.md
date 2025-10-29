@@ -1,7 +1,7 @@
 <!-- 🌈 Banner -->
 
-<h1 align="center">Hi, I'm Yukti Nandwana! 👋</h1>
-<p align="center">💻 Java Dev | 🛠️ Open Source Contributor | 🚀 GSoC'25 Aspirant | Video Editor
+<h1 align="center">Hi, I'm Yukti Nandwana!  👋</h1>
+<p align="center">💻 Java Dev | 🛠️ Open Source Contributor | 🚀 GSoC'25 Aspirant | Video  Editor
 </p>
 
 <p align="center">
