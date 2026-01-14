@@ -6,18 +6,28 @@
 ---
 
 ## 💫 About Me
-- 🌱 Currently grinding **Open Source + Checkstyle**
-- 💻 Learning **JavaScript, DSA & Databases**
-- 🎯 Goal for 2026: **GSSoC** & 10+ meaningful PRs
-- ⚡ Fun fact: Music + Maggie = debugging superpower 🎧🍜
+- 🌱 Grinding **Open Source + Checkstyle**  
+- 💻 Learning **JavaScript, DSA & Databases**  
+- 🎯 Goal for 2026: **GSSoC + 10+ meaningful PRs**  
+- ⚡ Fun fact: Music + Maggie = debugging superpower 🎧🍜  
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YuktiNandwana)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuktiNandwana)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-ff7f50)](#)  
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+<div align="center">
+<a href="https://www.linkedin.com/in/YuktiNandwana">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/YuktiNandwana">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-coming_soon-ff7f50?style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+</div>
 
 ---
 
@@ -37,14 +47,14 @@
 
 ## 📊 GitHub Stats (Working!)
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&theme=radical" />
-<img height="160" src="https://streak-stats.demolab.com?user=YuktiNandwana&theme=radical&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&theme=radical" />
+  <img height="160" src="https://streak-stats.demolab.com?user=YuktiNandwana&theme=radical&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🏅 Badges (Replacement for Trophies)
+## 🏅 Badges
 <div align="center">
 <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
@@ -75,6 +85,6 @@
 
 ---
 
-## 🚀 Let's Build, Break, Fix, Repeat 💥  
+## 🚀 Let's Build, Break, Fix, Repeat 💥
 Thanks for stopping by! If you’re into open source, coding vibes, or fun projects — **let’s connect!**
 
