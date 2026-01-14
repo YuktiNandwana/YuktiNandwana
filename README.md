@@ -1,60 +1,47 @@
-<h1 align="center">Heyyy, I'm Yukti! 👋</h1>
-<p align="center">
-💻 Java • JavaScript • Open Source • Checkstyle Contributor | 🚀 GSSoC 2026 Aspirant
-</p>
+<h1 align="center">Hello there! I’m Yukti Nandwana 👋</h1>
+
+🚀 Passionate dev exploring **Java, JavaScript, Web Dev, DSA, Open Source**! Active contributor @Checkstyle.  
+💡 Learning, building, and making projects that matter—let’s grow together! ✨
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuktinandwana) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/YuktiNandwana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-in_progress-orange)](#)
+[![Twitter/X](https://img.shields.io/badge/Twitter-X-black?logo=x)](#)
 
 ---
 
-## 💫 About Me
-- 🌱 Grinding **Open Source + Checkstyle**  
-- 💻 Learning **JavaScript, DSA & Databases**  
-- 🎯 Goal for 2026: **GSSoC + 10+ meaningful PRs**  
-- ⚡ Fun fact: Music + Maggie = debugging superpower 🎧🍜  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
 
 ---
 
-## 🌐 Connect With Me
-<div align="center">
-<a href="https://www.linkedin.com/in/YuktiNandwana">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/YuktiNandwana">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-coming_soon-ff7f50?style=for-the-badge" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-</div>
+![WakaTime Badge](https://wakatime.com/badge/user/your_wakatime_id.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuktiNandwana&label=Profile%20views&color=0e75b6&style=flat" alt="yuktinandwana" /> </p>
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</div>
-
----
-
-## 📊 GitHub Stats (Working!)
+## 🏆 GitHub Stats & Contribution Graph
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&theme=radical" />
   <img height="160" src="https://streak-stats.demolab.com?user=YuktiNandwana&theme=radical&hide_border=false" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&theme=radical" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuktiNandwana&theme=dracula" />
+
 ---
 
 ## 🔝 Top Repositories
+![](https://github-contributor-stats.vercel.app/api?username=YuktiNandwana&limit=5&theme=panda&combine_all_yearly_contributions=true)
+
 🌟 **Smart Parking System** — Real-world problem solver  
 📌 **Checkstyle Contributions** — My open-source journey  
 👩‍🎓 **DSA Practice Sheet** — Solving coding challenges daily  
@@ -63,15 +50,3 @@
 
 ## ✍️ Quote of the Day
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-## 📅 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuktiNandwana&theme=dracula" />
-</p>
-
----
-
-## 🚀 Let's Build, Break, Fix, Repeat 💥
-Thanks for stopping by! If you’re into open source, coding vibes, or fun projects — **let’s connect!**
