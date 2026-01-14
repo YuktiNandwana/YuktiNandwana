@@ -54,18 +54,6 @@
 
 ---
 
-## 🏅 Badges
-<div align="center">
-<img src="https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Learner-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-Dev-blue?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Dev-purple?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
----
-
 ## 🔝 Top Repositories
 🌟 **Smart Parking System** — Real-world problem solver  
 📌 **Checkstyle Contributions** — My open-source journey  
@@ -87,4 +75,3 @@
 
 ## 🚀 Let's Build, Break, Fix, Repeat 💥
 Thanks for stopping by! If you’re into open source, coding vibes, or fun projects — **let’s connect!**
-
