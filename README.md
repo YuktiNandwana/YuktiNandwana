@@ -59,7 +59,7 @@ Practice projects for DOM, functions, and events.
 ---
 
 ## 📬 Connect With Me  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/yukti-nandwana  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/yuktinandwana/  
 - 🖤 Open to collaborations & open-source projects!
 
 ---
