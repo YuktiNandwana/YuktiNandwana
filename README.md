@@ -64,12 +64,7 @@ Active contributor to the Checkstyle repository.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&theme=default" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&theme=default" height="180" alt="languages" />
-</div>
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YuktiNandwana/nandwanayukti/output/github-contribution-grid-snake.svg" alt="snake animation" />
