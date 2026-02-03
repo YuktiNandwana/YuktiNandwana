@@ -67,16 +67,16 @@ Active contributor to the Checkstyle repository.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandwanayukti&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandwanayukti&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandwanayukti&show_icons=true&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandwanayukti&layout=compact&hide_border=true" height="180" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandwanayukti&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandwanayukti&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YuktiNandwana/nandwanayukti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YuktiNandwana/nandwanayukti/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
