@@ -1,52 +1,82 @@
-<h1 align="center">Hello there! I’m Yukti Nandwana 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Web%20Enthusiast&descAlignY=55&descAlign=50" />
+</div>
 
-🚀 Passionate dev exploring **Java, JavaScript, Web Dev, DSA, Open Source**! Active contributor @Checkstyle.  
-💡 Learning, building, and making projects that matter—let’s grow together! ✨
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuktinandwana) 
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/YuktiNandwana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-in_progress-orange)](#)
-[![Twitter/X](https://img.shields.io/badge/Twitter-X-black?logo=x)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuktinandwana/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandwanayukti)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yukti_Nandwana/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32167275/yukti-nandwana)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nandwanayukti)
 
----
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white) 
-![VSCode](https://img.shields.io/badge/vscode-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+</div>
 
 ---
 
-![WakaTime Badge](https://wakatime.com/badge/user/your_wakatime_id.svg)
+### 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuktiNandwana&label=Profile%20views&color=0e75b6&style=flat" alt="yuktinandwana" /> </p>
+I am a passionate developer who loves **Open Source**, **debugging code**, and solving complex issues. I actively contribute to **Checkstyle** and enjoy building tools that solve real-world problems.
 
----
-
-## 🏆 GitHub Stats & Contribution Graph
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&theme=radical" />
-  <img height="160" src="https://streak-stats.demolab.com?user=YuktiNandwana&theme=radical&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&theme=radical" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuktiNandwana&theme=dracula" />
+- 🔭 I’m currently working on a **Smart Parking System** & **Checkstyle Contributions**.
+- 🌱 I’m currently learning **React.js** and **Advanced DSA**.
+- 💬 Ask me about **Java, Open Source, and Debugging**.
+- ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush! 🧩
 
 ---
 
-## 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=YuktiNandwana&limit=5&theme=panda&combine_all_yearly_contributions=true)
+### 🛠️ Tech Stack & Tools
 
-🌟 **Smart Parking System** — Real-world problem solver  
-📌 **Checkstyle Contributions** — My open-source journey  
-👩‍🎓 **DSA Practice Sheet** — Solving coding challenges daily  
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
+| **Frameworks** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) `DOM APIs` `JUnit` `Checkstyle` |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=flat&logo=apache%20maven&logoColor=white) |
 
 ---
 
-## ✍️ Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<details>
+<summary><h3>🎯 My Learning Goals (Click to Expand)</h3></summary>
+
+| Goal | Status |
+| :--- | :--- |
+| Strengthen foundations in **Data Structures & Algorithms** | 🔄 In Progress |
+| Learn **React.js** for modern Frontend | 🔄 In Progress |
+| Improve **Java Backend** Design & Testing | 🔄 In Progress |
+| Gain practical experience with **Databases & REST APIs** | ⏳ Planned |
+| Contribute to **Google-maintained** Open Source repos | ⏳ Planned |
+
+</details>
+
+<details>
+<summary><h3>💻 Current Projects (Click to Expand)</h3></summary>
+
+#### 1. Smart Parking System 🚗
+A web-based system for parking availability, reservations, and navigation.
+- **Tech:** HTML, CSS, JavaScript.
+- **Status:** Implementing features, planning React UI integration.
+
+#### 2. Open Source Contributions (Checkstyle) 🛠️
+Active contributor to the Checkstyle repository.
+- **Focus:** Javadoc token support, AST example updates, and improving tests.
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandwanayukti&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandwanayukti&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandwanayukti&theme=radical&hide_border=true" alt="streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's connect and code together! 🚀</sub>
+</div>
