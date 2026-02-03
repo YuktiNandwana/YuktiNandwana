@@ -67,12 +67,12 @@ Active contributor to the Checkstyle repository.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuktiNandwana&show_icons=true&hide_border=true&v=1" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuktiNandwana&layout=compact&hide_border=true&v=1" height="180" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuktiNandwana&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuktiNandwana&hide_border=true&v=1" alt="streak" />
 </div>
 
 <div align="center">
