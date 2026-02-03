@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Web%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Software%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a passionate developer who loves **Open Source**, **debugging code**, and solving complex issues. I actively contribute to **Checkstyle** and enjoy building tools that solve real-world problems.
+I am a developer focused on **Open Source**, **debugging code**, and solving complex issues. I actively contribute to **Checkstyle** and build tools that solve real-world problems.
 
 - 🔭 I’m currently working on a **Smart Parking System** & **Checkstyle Contributions**.
 - 🌱 I’m currently learning **React.js** and **Advanced DSA**.
