@@ -36,7 +36,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 ---
 
 <details>
-<summary><h3>🎯 My Learning Goals (Click to Expand)</h3></summary>
+<summary><h3>🎯 My Learning Goals (Click to Expand) </h3></summary>
 
 | Goal | Status |
 | :--- | :--- |
