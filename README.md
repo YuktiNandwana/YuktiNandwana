@@ -14,14 +14,14 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a developer focused on **Open Source**, **debugging code**, and solving complex issues. I actively contribute to **Checkstyle** and build tools that solve real-world problems.
 
 - 🔭 I’m currently working on a **Smart Parking System** & **Checkstyle Contributions**.
 - 🌱 I’m currently learning **React.js** and **Advanced DSA**.
 - 💬 Ask me about **Java, Open Source, and Debugging**.
-- ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush! 🧩
+- ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush! 
 
 ---
 
