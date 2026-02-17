@@ -14,7 +14,7 @@
 
 ---
 
-###  About Me
+###  About Me 
 
 I am a developer focused on **Open Source**, **debugging code**, and solving complex issues. I actively contribute to **Checkstyle** and build tools that solve real-world problems.
 
@@ -27,7 +27,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 
 ### 🛠️ Tech Stack & Tools
 
-| **Category** | **Technologies** |
+| **Category** | **Technologies**|
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
 | **Frameworks** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) `DOM APIs` `JUnit` `Checkstyle` |
@@ -49,12 +49,12 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 </details>
 
 <details>
-<summary><h3>💻 Current Projects (Click to Expand)</h3></summary>
+<summary><h3> 💻 Current Projects (Click to Expand)</h3></summary>
 
-#### 1. Smart Parking System 🚗
+#### 1. Smart Parking System  🚗
 A web-based system for parking availability, reservations, and navigation.
-- **Tech:** HTML, CSS, JavaScript.
-- **Status:** Implementing features, planning React UI integration.
+- **Tech:** HTML, CSS, JavaScript .
+- **Status:** Implementing features, planning React UI integration .
 
 #### 2. Open Source Contributions (Checkstyle) 🛠️
 Active contributor to the Checkstyle repository.
