@@ -25,7 +25,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools.
 
 | **Category** | **Technologies**|
 | :--- | :--- |
