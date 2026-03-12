@@ -1,4 +1,4 @@
-<div align="center ">
+<div align=" center ">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Software%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
