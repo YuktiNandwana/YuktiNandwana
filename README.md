@@ -20,7 +20,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 
 - 🔭 I’m currently working on a **Smart Parking System** & **Checkstyle Contributions**.
 - 🌱 I’m currently learning **React.js** and **Advanced DSA**.
-- 💬 Ask me about **Java, Open Source, and Debugging**.
+- 💬 Ask me about **Java, Open Source, & Debugging**.
 - ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush! 
 
 ---
@@ -49,7 +49,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 </details>
 
 <details>
-<summary><h3> 💻 Current Projects (Click to Expand)</h3></summary>
+<summary><h3>  Current Projects (Click to Expand)</h3></summary>
 
 #### 1. Smart Parking System  🚗
 A web-based system for parking availability, reservations, and navigation.
