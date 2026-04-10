@@ -1,4 +1,4 @@
-<div align =" center ">
+<div align = " center ">
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Software%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
@@ -27,7 +27,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 
 ### 🛠️ Tech Stack & Tools.
 
-| **Category** | **Technologies**|
+| **Category** | **Technologies** |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
 | **Frameworks** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) `DOM APIs` `JUnit` `Checkstyle` |
