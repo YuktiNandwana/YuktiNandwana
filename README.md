@@ -58,7 +58,7 @@ A web-based system for parking availability, reservations, and navigation.
 
 #### 2. Open Source Contributions (Checkstyle) 🛠️
 Active contributor to the Checkstyle repository.
-- **Focus:** Javadoc token support, AST example updates, and improving tests.
+- **Focus:**  Javadoc token support, AST example updates , and improving tests.
 
 </details>
 
