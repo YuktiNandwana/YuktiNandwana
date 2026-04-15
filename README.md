@@ -73,5 +73,5 @@ Active contributor to the Checkstyle repository.
 ---
 
 <div align="center">
-  <sub>Let's connect and code together! 🚀</sub>
+  <sub>Let's connect and code together! </sub>
 </div>
