@@ -30,7 +30,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 <div align="center">
   <img src="https://github.com/YuktiNandwana/nandwanayukti/blob/main/contributor%20(3).png?raw=true" alt="GSSoC 2026 Contributor Badge" width="220" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="LINK_TO_OPEN_SOURCE_TRACK_BADGE.png" alt="GSSoC 2026 Open Source Track Badge" width="220" />
+  <img src="https://github.com/YuktiNandwana/nandwanayukti/blob/main/open%20(3).png?raw=true" alt="GSSoC 2026 Open Source Track Badge" width="220" />
 </div>
 
 ---
