@@ -25,6 +25,16 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 
 ---
 
+### 🏆 Open Source Achievements
+
+<div align="center">
+  <img src="LINK_TO_CONTRIBUTOR_BADGE.png" alt="GSSoC 2026 Contributor Badge" width="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="LINK_TO_OPEN_SOURCE_TRACK_BADGE.png" alt="GSSoC 2026 Open Source Track Badge" width="220" />
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools.
 
 | **Category** | **Technologies** |
@@ -58,7 +68,7 @@ A web-based system for parking availability, reservations, and navigation.
 
 #### 2. Open Source Contributions (Checkstyle) 🛠️
 Active contributor to the Checkstyle repository.
-- **Focus:**  Javadoc token support, AST example updates , and improving tests.
+- **Focus:** Javadoc token support, AST example updates , and improving tests.
 
 </details>
 
