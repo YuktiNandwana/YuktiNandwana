@@ -64,7 +64,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 #### 1. Smart Parking System  🚗
 A web-based system for parking availability, reservations, and navigation.
 - **Tech:** HTML, CSS, JavaScript .
-- **Status:** Implementing features, planning React UI integration .
+- **Status:** Implementing features , planning React UI integration .
 
 #### 2. Open Source Contributions (Checkstyle) 🛠️
 Active contributor to the Checkstyle repository.
