@@ -20,7 +20,7 @@ I am a developer focused on **Open Source**, **debugging code**, and solving com
 
 - 🔭 I’m currently working on a **Smart Parking System** & **Checkstyle Contributions**.
 - 🌱 I’m currently learning **React.js** and **Advanced DSA**.
-- 💬 Ask me about **Java, Open Source, & Debugging**.
+- 💬 Ask me about **Java, Open Source, &  Debugging**.
 - ⚡ **Fun Fact:** Debugging code gives me an adrenaline rush! 
 
 ---
