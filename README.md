@@ -2,7 +2,7 @@
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Software%20Developer&descAlignY=55&descAlign=52" />
 </div>
 
-<div align="center">
+<div align= "center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuktinandwana/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandwanayukti)
