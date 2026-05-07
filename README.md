@@ -1,14 +1,14 @@
  <div align = " center ">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Software%20Developer&descAlignY=55&descAlign=52" />
+  <img src =  "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Yukti%20Nandwana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Open%20Source%20Contributor%20|%20Software%20Developer&descAlignY=55&descAlign=52" />
 </div>
 
 <div align= "center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuktinandwana/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandwanayukti)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yukti_Nandwana/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32167275/yukti-nandwana)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nandwanayukti)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuktinandwana/)
+[![Medium] (https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandwanayukti)
+[![LeetCode] (https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yukti_Nandwana/)
+[![StackOverflow ](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32167275/yukti-nandwana)
+[![Codeforces] (https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nandwanayukti)
 
 </div>
 
